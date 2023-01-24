@@ -27,7 +27,7 @@ body {
 }
 
 .topnav a div.active {
-  height: 60px;
+  height: 61px;
   background-color: #0077b6;
 }
 
@@ -37,7 +37,7 @@ a.menulogo {
 
 .active img {
   width: auto;
-  height: 60px;
+  height: 61px;
 }
 
 .topnav .icon {
